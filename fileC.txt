@@ -1,2 +1,6 @@
 This line added in github for testing pull request
+<<<<<<< HEAD
 line1
+=======
+line3
+>>>>>>> a7cba50ce8fbb858d69b384c93836698486e6f61
