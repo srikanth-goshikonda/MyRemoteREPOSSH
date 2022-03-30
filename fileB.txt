@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line added from local rep
+=======
+This line was added from remote rep for conflict
+>>>>>>> e58d1f68da7d192fde10a43ac4a7e2d6f978f24c
